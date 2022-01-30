@@ -26,3 +26,9 @@ Trying to get started with bazel and python?
 Lack of examples getting you down?
 Absolutely nothing on the internet executes as designed?
 This does!
+
+# Credit
+
+This provides some automated setup, and pulls down
+the following package:
+https://github.com/jvolkman/bazel-nix-python-example
